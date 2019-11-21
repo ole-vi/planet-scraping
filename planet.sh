@@ -14,7 +14,6 @@ zip -r treehouses.zip treehouses.github.io
 chmod u+x config.sh
 ./config.sh
 
-
-# python3 pythonscrape.py
+python3 pythonscrape.py
 
 
