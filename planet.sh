@@ -12,8 +12,8 @@ zip -r treehouses.zip treehouses.github.io
 
 # Export private login info
 chmod u+x config.sh
-./config.sh
+source config.sh
 
-python3 pythonscrape.py
+python3 planet.py
 
 
